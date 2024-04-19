@@ -53,8 +53,6 @@ Hobbies:
 
 #6. Travel.
  
-#7. Sports.
-
 #8. Reading.
 
 Skills :
