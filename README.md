@@ -1,5 +1,5 @@
 # Resume
-                                                             MY RESUME
+                                             MY RESUME
 Image :
 
     ADD YOUR IMAGE
