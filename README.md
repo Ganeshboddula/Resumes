@@ -6,11 +6,11 @@ Image :
 
 
     MY RESUME:
-             Name: T.sai ganesh
+             Name: s.pranay
 
-             Telephone-Number:8897392270
+             Telephone-Number:8712104107
 
-             email:saig14368@gmail.com
+             email:pranaygoud6899@gmail.com
 
    Objective:
             Seeking a position as a social worker providing service to the aged.
@@ -27,11 +27,11 @@ Intermediate : Narayana junior college
 
 year of studying : 2019-2021
 
-High school name : Dilsukhnagar public school
+High school name : Akshara high school
 
-year of studying : 2007-2019
+year of studying : 20014-2019
 
-City and State : Hyderabad , Telengana
+City and State : mothkur , Telengana
 
 
  
